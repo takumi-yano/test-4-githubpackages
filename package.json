@@ -1,0 +1,19 @@
+{
+  "name": "@yano-takumi/test-4-githubpackages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takumi-yano/test-4-githubpackages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takumi-yano/test-4-githubpackages/issues"
+  },
+  "homepage": "https://github.com/takumi-yano/test-4-githubpackages#readme"
+}
