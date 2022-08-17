@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/takumi-yano/test-4-githubpackages#readme",
   "publishConfig": {
-    "@yano-takumi:registry": "https://npm.pkg.github.com"
+    "@takumi-yano:registry": "https://npm.pkg.github.com"
   }
 }
